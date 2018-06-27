@@ -6,4 +6,5 @@
 # Organization : Microsoft
 
 #Configuration
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Configurations")
+
+![alt text](https://github.com/sumodmadhavan/Codename-StarBucks/blob/master/config.png "Configurations")
