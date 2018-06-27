@@ -1,4 +1,7 @@
 # USAGE
+```python
+$ python activedirectory_pop.py "My Group Name"
+```
 # $ python activedirectory_pop.py "My Group Name"
 #
 # Author: Sumod Madhavan
