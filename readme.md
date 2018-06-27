@@ -1,7 +1,7 @@
 # USAGE
 # $ python activedirectory_pop.py "My Group Name"
 #
-# Author: Sumod Madhavan sumadh@microsoft.com
+# Author: Sumod Madhavan
 # Organization : Microsoft
 
 # Configuration
